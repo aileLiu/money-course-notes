@@ -1,16 +1,25 @@
 # 理财入门14天小白训练营【163期39班】
 
 > 相关资料归档，每次资料都会按照课程日期归档于此
+
 > 学习期间，十分感谢赫之班班&嘟嘟学姐的分享
 
 
 👉 相关内容
   - 主课程
-	  - 晨读【M】
-	  - 午分享【A】
-	  - 加餐【PLUS】
-	  - 晚分享【N】
-  - 财商测试（小游戏）
+	  - 【晨】晨读
+	  - 【午】午分享
+	  - 【+】加餐
+	  - 【晚】晚分享
+  - 财商测试（小游戏+专业解读）
+	  - [捕鱼游戏Day1](https://jinshuju.net/f/89g35D)
+	  - [捕鱼游戏Day2](https://jinshuju.net/f/X5Ryxj)
+	  - [捕鱼游戏Day3](https://jinshuju.net/f/CpCuF8)
+	  - [捕鱼游戏Day4](https://jinshuju.net/f/7YmdDi)
+	  - [捕鱼游戏Day5](https://jinshuju.net/f/qi2o6F)
+	  - [捕鱼游戏Day6](https://jinshuju.net/f/x28RGM)
+	  - [捕鱼游戏Day7](https://jinshuju.net/f/xcXobd)
+	  - [捕鱼游戏Day8](?)
 
 
 ## 计划【？？？？？？？？？？】
