@@ -20,7 +20,7 @@
 	  - [捕鱼游戏Day5](https://jinshuju.net/f/qi2o6F)
 	  - [捕鱼游戏Day6](https://jinshuju.net/f/x28RGM)
 	  - [捕鱼游戏Day7](https://jinshuju.net/f/xcXobd)
-	  - [捕鱼游戏Day8](?)
+	  - [捕鱼游戏Day8](https://jinshuju.net/f/GZ51Qh)
 	  - [【解析】捕鱼游戏](fishing-game)
 
 👉 Other
