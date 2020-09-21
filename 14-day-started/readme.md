@@ -1,4 +1,4 @@
-# 理财入门14天小白训练营【163期39班】
+# 理财入门-14天小白训练营【长投学堂 & 163期39班】
 
 > 相关资料归档，每次资料都会按照课程日期归档于此
 
@@ -6,12 +6,13 @@
 
 
 👉 相关内容
-  - 主课程
+  - 课程
+	  - [主课（共9课+10号正式开始）](200910)
 	  - 【晨】晨读
 	  - 【午】午分享
 	  - 【+】加餐
 	  - 【晚】晚分享
-  - 财商测试（小游戏+专业解读）
+  - 财商测试（小游戏+解析）
 	  - [捕鱼游戏Day1](https://jinshuju.net/f/89g35D)
 	  - [捕鱼游戏Day2](https://jinshuju.net/f/X5Ryxj)
 	  - [捕鱼游戏Day3](https://jinshuju.net/f/CpCuF8)
@@ -20,6 +21,22 @@
 	  - [捕鱼游戏Day6](https://jinshuju.net/f/x28RGM)
 	  - [捕鱼游戏Day7](https://jinshuju.net/f/xcXobd)
 	  - [捕鱼游戏Day8](?)
+	  - [【解析】捕鱼游戏](fishing-game)
+
+👉 Other
+  - [课程笔记](notes)
+	  - [第一课：都说钱不值钱了，我该怎么办？](notes/01.png)
+	  - [第二课：钱难赚，保险别乱买](notes/02.png)
+  - 书籍推荐
+	  - 《小狗钱钱》
+	  - 《》
+  - 五险一金
+	  - [五险一金课程前言](https://jinshuju.net/f/a27jVO)
+	  - [第一节-养老保险](https://jinshuju.net/f/VTMT4I)
+	  - [第二节-医疗保险](https://jinshuju.net/f/pvY4VT)
+	  - [第三节-生育险](https://jinshuju.net/f/auaLLR)
+	  - [第四节-工伤险](https://jinshuju.net/f/8VHvmm)
+	  - [第五节-失业保险](https://jinshuju.net/f/F6VeVb)
 
 
 ## 计划【？？？？？？？？？？】

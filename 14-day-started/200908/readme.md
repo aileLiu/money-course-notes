@@ -2,5 +2,5 @@
 
 > 正式课程会从10号开始
 
-![01.png](14-day-started/assets/01.png)
+![01.png](assets/01.png)
 
