@@ -2,7 +2,7 @@
 
 > 相关资料归档，每次资料都会按照课程日期归档于此
 
-> 学习期间，十分感谢赫之班班&嘟嘟学姐的分享
+> 期间，十分感谢赫之班班&嘟嘟学姐的分享
 
 
 👉 相关内容
@@ -12,6 +12,7 @@
 	  - 【午】午分享
 	  - 【+】加餐
 	  - 【晚】晚分享
+	  - [【Notes】主课笔记](notes)
   - 财商测试（小游戏+解析）
 	  - [捕鱼游戏Day1](https://jinshuju.net/f/89g35D)
 	  - [捕鱼游戏Day2](https://jinshuju.net/f/X5Ryxj)
@@ -19,14 +20,16 @@
 	  - [捕鱼游戏Day4](https://jinshuju.net/f/7YmdDi)
 	  - [捕鱼游戏Day5](https://jinshuju.net/f/qi2o6F)
 	  - [捕鱼游戏Day6](https://jinshuju.net/f/x28RGM)
-	  - [捕鱼游戏Day7](https://jinshuju.net/f/xcXobd)
+	  - [捕鱼游戏Day6+1](https://jinshuju.net/f/xcXobd)
 	  - [捕鱼游戏Day8](https://jinshuju.net/f/GZ51Qh)
 	  - [【解析】捕鱼游戏](fishing-game)
+  - 深入学习（进阶：投资自己）
+	  - 股票初级入门【开户+立即入手股票】
+	  - 基金
+	  - 保险
+	  - 开源
 
 👉 Other
-  - [【课程笔记】](notes)
-	  - [第一课：都说钱不值钱了，我该怎么办？](notes/01.png)
-	  - [第二课：钱难赚，保险别乱买](notes/02.png)
   - 书籍推荐
 	  - 《小狗钱钱》
 	  - 《》
